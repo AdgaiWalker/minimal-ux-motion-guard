@@ -20,7 +20,7 @@ npx skills add AdgaiWalker/minimal-ux-motion-guard
 ### 方式 2：手动放入本地技能目录
 ~~~bash
 mkdir -p ~/.claude/skills/minimal-ux-motion-guard
-curl -fsSL [https://raw.githubusercontent.com/AdgaiWalker/minimal-ux-motion-guard/main/SKILL.md](https://raw.githubusercontent.com/AdgaiWalker/minimal-ux-motion-guard/main/SKILL.md) \
+curl -fsSL https://raw.githubusercontent.com/AdgaiWalker/minimal-ux-motion-guard/main/SKILL.md \
   -o ~/.claude/skills/minimal-ux-motion-guard/SKILL.md
 ~~~
 
